@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN3NaREZHdmUranIvSkc0MkROMHI1bCtFbXlDa2d6VVhPT1c0bFVvZlErSnUyNHg1cVNsemR6U1prZnVFR1dVa2pHamtFOW04UGt4SHVjbTJxeElPT2dFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQyOTgwCWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMC4wX3g2NC1zZXR1cC5leGUKdXo2U1pheHJqanVMVGJpZFRCZ2RHaG4zY012Y3hxbE5lcUZCZUpzc0IwVnRCVS9JeGswaTJOZUNjWlBlL1ZrdTNBcjlJbXZ4c1J4WE5SM1ViTnRYQ1E9PQo=",
-                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.0.0/Totem.Prenotazioni_1.0.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN3NoUWFvVzl1dWRSMnpOM0NtTjYwQitZUmd3dTRtRjBzd0s5UG9pSWgycGorUjhCRS9Kb0daMHlDM08xNkxnL3NxeWtZQUx4cEhjc2IzSkNkVHBzb1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzQzNzY1CWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMC4xX3g2NC1zZXR1cC5leGUKMllvdEZ2TmdLMlpPamlEMmF1eTUzeUVTZUh3UEphem0zRmdZMStmZDhjK3ZGcEttdHFpVmhRRk0rVTU2Z0tSUEZZY3JBQnFmbXU3WUhCWHdzV0ZOQmc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.0.1/Totem.Prenotazioni_1.0.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-18T17:06:56Z",
-    "version":  "1.0.0",
-    "notes":  "Prima versione del Totem Prenotazioni: lista d attesa di USBowling, scontrino, tre lingue, aggiornamenti automatici."
+    "pub_date":  "2026-10-18T17:18:48Z",
+    "version":  "1.0.1",
+    "notes":  "Aggiornamento automatico con riavvio del PC (come gli altri totem), avvio con Windows, pista provvisoria spiegata in F10."
 }
