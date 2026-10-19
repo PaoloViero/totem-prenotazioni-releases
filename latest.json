@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN3Z4dVQyK0c2OEhrYk9STXk5NjJ0QUptbnZ6eTBsUk02UkJhYkdSbHFjUzRkaGp5Y2xNa0lTemQ3aUpxWXU3aHBMSjBKcWQzYXRPSFlrcHNiREg3YndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMzk2OTAwCWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMy4wX3g2NC1zZXR1cC5leGUKcmVQMHVocm81QVk3YVdNT2FjOXdHN0NIRjRzSnJyTGtrRThaSExGWW1oVlFOSXV2UGsxTFlRbVhtYWdVVlY3YzhBTHBFWmhXbXQydVpSYlAzTHZ0Q3c9PQo=",
-                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.3.0/Totem.Prenotazioni_1.3.0_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN2cxSHhGQTJ1UkJ1VDd5eWNmY2V6cUZ4R3VmekFRaVlvNUdRYnkvZWN2WXdMMmpxK3NFZzUxWEdWTGRRVkJBUlJ2MnJhcDhzbDlLU1B5QXhGV3F1SWdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyNDI1NDY2CWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMy4xX3g2NC1zZXR1cC5leGUKWXFzMXRLWmtuTklZL2VVUmRJSGZBT1JhTTcvZENJSkZqN1hZZkwwNFNEdENxaXRpdk1iVExzOTNhcllqQVFlN2l6QlJGK3poZ0NJNUkwbndOVitqRHc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.3.1/Totem.Prenotazioni_1.3.1_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-19T08:01:57Z",
-    "version":  "1.3.0",
-    "notes":  "Pagamento con carta: nuovo pulsante PAGO TUTTO (un solo pagamento per tutti i giocatori che non hanno ancora pagato, incassato in USBowling in una sola operazione) e PAGO IL RESTO. Corretta la lettura della carta quando si paga di seguito per giocatori diversi."
+    "pub_date":  "2026-10-19T17:19:23Z",
+    "version":  "1.3.1",
+    "notes":  "Totem Prenotazioni 1.3.1: alla prima installazione propone di preparare il PC per il totem (scheda di rete sveglia e Wake-on-LAN, firewall, Avvio rapido spento, aggiornamenti di Windows bloccati); gli script sono nella cartella strumenti del programma."
 }
