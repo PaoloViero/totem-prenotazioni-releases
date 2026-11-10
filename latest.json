@@ -1,11 +1,11 @@
 {
     "platforms":  {
                       "windows-x86_64":  {
-                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN2lrZkNJY2lxU3ZpVjFIY280ZFJjWEhpdC9JYk50VVNPNkRoN2NkemhCajl4RVV3UzZvZXhnRG4zaDVSNmwxSUlRKzhQd0UyVXJ2cGZUR2E0dDVUdHdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyODUzMjYyCWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMy4zX3g2NC1zZXR1cC5leGUKdjVpWlgzd0paL2FIUldiM0Vxd1h2TWMxTGowd1NGVWo3WWxUNS96Y1BoNVVqc3FFb0t1YzI2QWZtTGZ1cWtBQ1YzYWllcjEvajVFK2pEaWZqWmk1Q3c9PQo=",
-                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.3.3/Totem.Prenotazioni_1.3.3_x64-setup.exe"
+                                             "signature":  "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMFF1UVJlQUtCN2kya3l2cFc4M3pZS0lJckV5S0l0MGlnd2NWdC9QVlBjNXFqYVRaQk1wYU9iL2x1aVZ6RGhrT0Q3aHR5eEhMRjdBVjJpWDROcWVJakozMU5ZNHpPaFFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzk0MzI3MjU2CWZpbGU6VG90ZW0gUHJlbm90YXppb25pXzEuMy40X3g2NC1zZXR1cC5leGUKRFF0VHc4OHdjS2FxNHNzQ05UeHRJamRWM2ZBOVMwLzQwazAwUVA2ZHdQWElQMzRnM2pPNkFJQkcwRmJRc0RHbS9rZm9NUXBXT01mKytraCtObEhvQXc9PQo=",
+                                             "url":  "https://github.com/PaoloViero/totem-prenotazioni-releases/releases/download/v1.3.4/Totem.Prenotazioni_1.3.4_x64-setup.exe"
                                          }
                   },
-    "pub_date":  "2026-10-24T14:48:18Z",
-    "version":  "1.3.3",
-    "notes":  "Totem Prenotazioni 1.3.3: in F10 «Scarpe obbligatorie» SI/NO (di partenza NO). Con SI ogni giocatore deve scegliere il suo numero di scarpe."
+    "pub_date":  "2026-11-10T16:21:59Z",
+    "version":  "1.3.4",
+    "notes":  "Aggiornamento Totem Prenotazioni versione 1.3.4."
 }
